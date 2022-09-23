@@ -43,7 +43,6 @@ swiftgen config lint
 
 ```
 swiftgen
-
 ```
 <img width="533" alt="スクリーンショット_2022_09_23_19_17" src="https://user-images.githubusercontent.com/47273077/191940156-3f7457d6-48bb-4719-9648-d6014dd1998e.png">
 
