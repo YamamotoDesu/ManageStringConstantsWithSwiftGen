@@ -7,3 +7,9 @@ To install SwiftGen via Homebrew, simply use:
 $ brew update
 $ brew install swiftgen
 ```
+
+## SetUp
+```
+cd /Users/yamamotokyou/GitDev/ManageStringConstantsWithSwiftGen
+swiftgen config init
+```
