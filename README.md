@@ -72,5 +72,23 @@ class ViewController: UIViewController {
 }
 ```
 
+### Example
 
+Localizable.strings
+```
+"title" = "Home";
 
+"config.user.change_password" = "Change password";
+```
+
+ViewController
+
+```swift
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        navigationItem.title = S.title
+        
+        print(S.Config.User.changePassword)
+        
+    }
+```
