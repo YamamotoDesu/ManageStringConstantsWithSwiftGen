@@ -39,5 +39,12 @@ swiftgen config lint
 <img width="571" alt="スクリーンショット_2022_09_23_19_10" src="https://user-images.githubusercontent.com/47273077/191938947-05422ab7-32a1-412c-bea2-b2df7f151a73.png">
 
 
+## 5 . Generate: swiftgen
+
+```
+swiftgen
+
+```
+<img width="533" alt="スクリーンショット_2022_09_23_19_17" src="https://user-images.githubusercontent.com/47273077/191940156-3f7457d6-48bb-4719-9648-d6014dd1998e.png">
 
 
