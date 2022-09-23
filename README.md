@@ -53,5 +53,24 @@ swiftgen
 
 <img width="268" alt="スクリーンショット_2022_09_23_19_20" src="https://user-images.githubusercontent.com/47273077/191940633-74019571-4ce7-4da1-a89b-51ad24d64f05.png">
 
+<img width="1135" alt="スクリーンショット_2022_09_23_19_22" src="https://user-images.githubusercontent.com/47273077/191941086-7ad0c031-d3e8-4cd0-8b5f-d365d03ca7fe.png">
+
+```swift
+class ViewController: UIViewController {
+    
+//    enum Constant {
+//        static let title = "Home"
+//    }
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        navigationItem.title = S.title
+        
+    }
+
+
+}
+```
+
 
 
