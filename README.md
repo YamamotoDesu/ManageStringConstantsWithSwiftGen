@@ -130,3 +130,8 @@ swiftgen.yml
 
  
 <img width="774" alt="スクリーンショット_2022_09_24_12_35" src="https://user-images.githubusercontent.com/47273077/192078405-600545ba-a334-469f-aa0b-6009a3764ac9.png">
+
+<img width="983" alt="スクリーンショット_2022_09_24_12_39" src="https://user-images.githubusercontent.com/47273077/192078552-2cb1844f-a69d-4bb2-8e20-a7b12a5da5ec.png">
+
+<img width="553" alt="スクリーンショット_2022_09_24_12_40" src="https://user-images.githubusercontent.com/47273077/192078575-c3f5a852-ace1-4bdb-ac24-1261147ee1d9.png">
+
