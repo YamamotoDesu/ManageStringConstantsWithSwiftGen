@@ -101,5 +101,30 @@ ViewController
 
 
 ## Assets Pattern
+swiftgen.yml
+```yml
+ xcassets:
+   inputs:
+     - ManageStringConstantsWithSwiftGen/Assets.xcassets
+   outputs:
+     - templateName: swift5
+       params:
+        forceProvidesNamespaces: true
+       output: ManageStringConstantsWithSwiftGen/XCAssets+Generated.swift
+       params:
+        enumName: I
+ ```
+ 
+ ```
+ swiftgen config lint
+ ```
+ 
+ <img width="565" alt="スクリーンショット_2022_09_24_12_31" src="https://user-images.githubusercontent.com/47273077/192078240-1884df73-c93e-43cf-be4a-63b1cb11939d.png">
+ 
+ ```
+ swiftgen
+ ```
 
+ <img width="534" alt="スクリーンショット_2022_09_24_12_33" src="https://user-images.githubusercontent.com/47273077/192078340-52248eaa-f8e0-487e-9302-8ff7b367bf33.png">
 
+ 
